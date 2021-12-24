@@ -1,0 +1,16 @@
+﻿PeriodKey,Category,Subcategory,Country,Segment,conversations,people,% positive,% negative,% neutral
+1,Technical Ability Test,At home,Singapore,All,7212,3534,43,47,10
+1,Technical Ability Test,At home,Singapore,16-23 years old,2456,1179,38,46,17
+1,Technical Ability Test,At home,Singapore,16-23 years old,2677,2453,37,28,27
+1,Technical Ability Test,At office,Singapore,All,5831,4892,28,32,40
+1,Technical Ability Test,In office,Singapore,All,4587,2294,52,32,13
+1,Technical Ability Test,In office,Singapore,16-23 years old,1232,641,45,45,10
+1,Technical Ability Test,Total,Singapore,16-23 years old,3898,1871,47,54,-1
+1,Technical Ability Test,At home,Singapore,24-39 years old,2617,1282,57,43,0
+1,Technical Ability Test,In office,Singapore,24-39 years old,1002,1890,38,32,30
+1,Technical Ability Test,Total,Singapore,24-39 years old,5635,2155,29,37,34
+1,Technical Ability Test,Total,Singapore,All,4782,11990,48,42,10
+1,Technical Ability Test,At home,Singapore,40+ years old,3211,987,23,13,64
+1,Technical Ability Test,In office,Singapore,40+ years old,1456,655,0,27,80
+1,Technical Ability Test,Total,Singapore,40+ years old,2099,1477,26,24,52
+1,Technical Ability Test,At home,Singapore,Segment 1,736,261,13,18,69
